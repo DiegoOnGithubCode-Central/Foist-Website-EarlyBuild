@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(240, 237, 193);
+    margin-right: 20%;
+    margin-left: 20%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(175, 173, 135);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#header {
+    text-align: center;
+    background-color: rgb(195, 203, 163);
+    margin-right: 1%;
+    margin-left: 1%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(175, 173, 135);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#pageNav {
+    text-align: center;
+    position: fixed;
+}
+#footer {
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(175, 173, 135);
+    background-color: rgb(195, 203, 163);
+}
+img {
+    border-radius: 38%;
+    border-width: 3px;
+    border-style: solid;
+    border-color:rgb(105, 105, 105);
+    display: block;
+    margin-left: 37.25%;
+    margin-right: 37.25%;
+}
+p {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
